@@ -1,0 +1,10 @@
+{
+    "identification_image_url": "",
+    "identification_with_user_url": "",
+    "number": "",
+    "rejected_reason": "",
+    "type": "",
+    "verification_attempted": false,
+    "verification_rejected": false,
+    "verified": false
+}

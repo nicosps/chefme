@@ -1,0 +1,23 @@
+{
+    "available_for": 0,
+    "available_for_name": "",
+    "buy_price": 0,
+    "coupon_effect": [
+      {
+        "legit_check_type_name": "",
+        "package_coupon_effect_id": 0,
+        "package_coupon_name": "",
+        "quantity": 0,
+        "validity_period": 0
+      }
+    ],
+    "description": "",
+    "expired_period": "",
+    "id": 0,
+    "image_path": "",
+    "is_active": false,
+    "is_available_to_buy": false,
+    "name": "",
+    "real_price": 0,
+    "total_coupon": 0
+}

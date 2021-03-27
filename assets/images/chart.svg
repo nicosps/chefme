@@ -1,0 +1,108 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="209.051"
+  height="137"
+  viewBox="0 0 209.051 137"
+>
+  <g
+    id="Group_4722"
+    data-name="Group 4722"
+    transform="translate(-91.161 -274.917)"
+  >
+    <path
+      id="Path_6747"
+      data-name="Path 6747"
+      d="M-7213-140.39l28.237,43.622,6.8-30.026,35.125-38.524,33.991,48.155,27.193,11.9,20.961-25.494,20.576-73.411,12.1,50.581,22.215,33.72"
+      transform="translate(7305 495.327)"
+      fill="none"
+      stroke="#e25351"
+      stroke-width="2"
+    />
+    <g
+      id="Rectangle_1765"
+      data-name="Rectangle 1765"
+      transform="translate(92.211 274.917)"
+      fill="none"
+      stroke="#fff"
+      stroke-width="2"
+    >
+      <rect width="208" height="137" rx="5" stroke="none" />
+      <rect x="1" y="1" width="206" height="135" rx="4" fill="none" />
+    </g>
+    <ellipse
+      id="Ellipse_524"
+      data-name="Ellipse 524"
+      cx="4"
+      cy="3.5"
+      rx="4"
+      ry="3.5"
+      transform="translate(116.211 394.917)"
+      fill="#fff"
+    />
+    <circle
+      id="Ellipse_525"
+      data-name="Ellipse 525"
+      cx="3.5"
+      cy="3.5"
+      r="3.5"
+      transform="translate(124.211 365.917)"
+      fill="#fff"
+    />
+    <circle
+      id="Ellipse_526"
+      data-name="Ellipse 526"
+      cx="3.5"
+      cy="3.5"
+      r="3.5"
+      transform="translate(158.211 326.917)"
+      fill="#fff"
+    />
+    <ellipse
+      id="Ellipse_527"
+      data-name="Ellipse 527"
+      cx="4"
+      cy="3.5"
+      rx="4"
+      ry="3.5"
+      transform="translate(192.211 372.917)"
+      fill="#fff"
+    />
+    <circle
+      id="Ellipse_528"
+      data-name="Ellipse 528"
+      cx="3.5"
+      cy="3.5"
+      r="3.5"
+      transform="translate(220.211 385.917)"
+      fill="#fff"
+    />
+    <ellipse
+      id="Ellipse_529"
+      data-name="Ellipse 529"
+      cx="4"
+      cy="3.5"
+      rx="4"
+      ry="3.5"
+      transform="translate(240.211 361.917)"
+      fill="#fff"
+    />
+    <circle
+      id="Ellipse_530"
+      data-name="Ellipse 530"
+      cx="3.5"
+      cy="3.5"
+      r="3.5"
+      transform="translate(261.211 287.917)"
+      fill="#fff"
+    />
+    <circle
+      id="Ellipse_531"
+      data-name="Ellipse 531"
+      cx="3.5"
+      cy="3.5"
+      r="3.5"
+      transform="translate(273.211 336.917)"
+      fill="#fff"
+    />
+  </g>
+</svg>

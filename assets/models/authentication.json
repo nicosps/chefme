@@ -1,0 +1,51 @@
+{
+    "add_picture_note": "",
+    "authentication_image": [
+        {
+        "original": "",
+        "thumbnail": ""
+        }
+    ],
+    "category": "",
+    "checker_image": [""],
+    "code": "",
+    "comment_list": [
+        {
+        "by": "",
+        "message": "",
+        "time": ""
+        }
+    ],
+    "created_at": "",
+    "display_image": "",
+    "id": 0,
+    "invoice": {
+        "code": "",
+        "coupon_id": 0,
+        "created_at": "",
+        "display_image": "",
+        "package_set_id": 0,
+        "payment_type": "",
+        "price": 0,
+        "price_after_promo": 0,
+        "product_name": "",
+        "refund_wallet_mutation_id": 0,
+        "status": "",
+        "type": "",
+        "unique_code_id": 0,
+        "updated_at": "",
+        "user_id": 0,
+        "username": "",
+        "wallet_mutation_id": 0
+    },
+    "legit_check_brand_id": 0,
+    "legit_check_brand_name": "",
+    "name": "",
+    "result": "",
+    "result_note": "",
+    "share_link": "",
+    "status": 0,
+    "status_message": "",
+    "user_id": 0,
+    "username": ""
+}

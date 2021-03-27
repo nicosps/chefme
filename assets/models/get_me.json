@@ -1,0 +1,37 @@
+{
+    "token": "",
+    "user": {
+        "active_refund_shipping_address_id": 0,
+        "active_shipping_address_id": 0,
+        "bank": {
+            "name": "",
+            "number": "",
+            "owner": ""
+        },
+        "banned": false,
+        "birthday": "1999-01-05T00:00:00Z",
+        "country_code": "62",
+        "email": "1321@asdaw.com",
+        "froze": false,
+        "full_name": "131232131",
+        "gender": "male",
+        "is_seller": false,
+        "phone": "87891864290",
+        "qr_code": "",
+        "refer_count": 0,
+        "refer_legit_check_count": 0,
+        "referral_code": "Y6EACDV6",
+        "referral_reward_amount": 0,
+        "referrer_code": "",
+        "referrer_id": 0,
+        "store_close_end_date": "",
+        "store_close_start_date": "",
+        "store_closed": false,
+        "username": "241242332",
+        "verified_email": "",
+        "verified_phone": "87891864321",
+        "wallet": {
+            "amount": 0
+        }
+    }
+}

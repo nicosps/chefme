@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "detail_image_paths": "",
+    "guide_detail_type_id": 0,
+    "guide_detail_type_name": "",
+    "id": 0,
+    "is_active": false,
+    "is_default": false,
+    "is_example": false,
+    "legit_check_brand_id": 0,
+    "legit_check_brand_name": "",
+    "priority": 0,
+    "product_category_id": 0,
+    "product_category_name": "",
+    "summary": "",
+    "summary_image_path": "",
+    "title": ""
+}

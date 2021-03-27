@@ -1,0 +1,13 @@
+{
+    "id": 0,
+    "name": "",
+    "product_category_group": {
+        "id": 0,
+        "image_path": "",
+        "is_legit_check_search": false,
+        "name": "",
+        "slug": ""
+    },
+    "product_category_group_id": 0,
+    "slug": ""
+}

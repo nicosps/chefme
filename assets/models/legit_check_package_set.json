@@ -1,0 +1,22 @@
+{
+    "code": "",
+    "expired_at": "",
+    "package_description": "",
+    "package_image": "",
+    "package_name": "",
+    "total_quantity_coupon": 0,
+    "created_at": "",
+    "coupon_list": [
+        {
+            "code": "",
+            "package_id": 0,
+            "coupon_title": "",
+            "coupon_description": "",
+            "coupon_image": "",
+            "coupon_type": "",
+            "quantity": 0,
+            "is_available": false,
+            "expired_at": ""
+        }
+    ]
+}

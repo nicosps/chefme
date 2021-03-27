@@ -1,0 +1,8 @@
+{
+    "amount": 0,
+    "created_at": "",
+    "paid": false,
+    "rejected": false,
+    "rejected_reason": "",
+    "status": ""
+}

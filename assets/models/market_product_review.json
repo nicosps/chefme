@@ -1,0 +1,21 @@
+{
+    "reviews": [
+        {
+            "comment": "",
+            "username": ""
+        }
+    ],
+    "statistic": {
+        "color": 0.0,
+        "comfort_comfortable": 0.0,
+        "comfort_fine": 0.0,
+        "comfort_rough": 0.0,
+        "cozy": 0.0,
+        "meet_expectation": 0.0,
+        "not_meet_expectation": 0.0,
+        "outlook": 0.0,
+        "sizing_bigger": 0.0,
+        "sizing_fine": 0.0,
+        "sizing_smaller": 0.0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "code": "",
+    "created_at": "",
+    "package_coupon": [
+        {
+            "coupon_quantity": 0,
+            "coupon_type": ""
+        }
+    ],
+    "package_expired_at": "",
+    "package_image": "",
+    "package_name": "",
+    "payment_code": "",
+    "payment_confirmation": {
+        "amount": 0,
+        "code": "",
+        "comment": "",
+        "contact_number": "",
+        "depatu_bank_id": 0,
+        "metode_pembayaran": "",
+        "package_invoice_id": 0,
+        "sender_bank_account_name": "",
+        "sender_bank_account_number": "",
+        "sender_bank_name": "",
+        "status": "",
+        "user_id": 0,
+        "username": ""
+    },
+    "payment_date": "",
+    "payment_type": "",
+    "price": 0,
+    "status": "",
+    "total": 0,
+    "type": "",
+    "unique_code_id": 0,
+    "user_id": 0,
+    "username": "",
+    "virtual_account": {
+        "bank": "", 
+        "va_number": ""
+    },
+    "wallet_mutation_id": 0
+}

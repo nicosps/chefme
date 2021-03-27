@@ -1,0 +1,69 @@
+{
+  "tracking_code": "JO0027400815",
+  "tag": "office-shipping",
+  "history": [
+    {
+      "date_time": "2021-02-17 21:51:22",
+      "status": "Paket akan dikirimkan ke KDI_GATEWAY",
+      "receiver": "",
+      "data": ["JO0027400815"],
+      "data_type": "string"
+    },
+    {
+      "date_time": "2021-02-17 22:10:58",
+      "status": "Paket telah sampai di KDI_GATEWAY",
+      "receiver": "",
+      "data": null,
+      "data_type": ""
+    },
+    {
+      "date_time": "2021-02-17 22:33:36",
+      "status": "Paket telah diterima oleh ANCOL",
+      "receiver": "",
+      "data": null,
+      "data_type": ""
+    },
+    {
+      "date_time": "2021-02-17 22:41:02",
+      "status": "Paket akan dikirimkan ke MDC_GATEWAY",
+      "receiver": "",
+      "data": null,
+      "data_type": ""
+    },
+    {
+      "date_time": "2021-02-18 05:36:17",
+      "status": "Paket telah sampai di MDC_GATEWAY",
+      "receiver": "",
+      "data": null,
+      "data_type": ""
+    },
+    {
+      "date_time": "2021-02-18 05:49:55",
+      "status": "Paket akan dikirimkan ke MANADO",
+      "receiver": "",
+      "data": null,
+      "data_type": ""
+    },
+    {
+      "date_time": "2021-02-18 05:52:13",
+      "status": "Paket telah sampai di MANADO",
+      "receiver": "",
+      "data": null,
+      "data_type": ""
+    },
+    {
+      "date_time": "2021-02-18 05:55:33",
+      "status": "Paket akan dikirim ke alamat penerima",
+      "receiver": "",
+      "data": null,
+      "data_type": ""
+    },
+    {
+      "date_time": "2021-02-18 06:34:46",
+      "status": "Paket telah diterima",
+      "receiver": "Ela",
+      "data": null,
+      "data_type": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "full_name": "",
+    "id": 0,
+    "is_active": true,
+    "legit_check_type_id": 0,
+    "legit_check_type_name": "",
+    "list_product_category_group": [
+        {
+            "id": 0,
+            "name": ""
+        }
+    ],
+    "logo_image_url": "",
+    "name": "",
+    "parent_id": 0,
+    "price": 0,
+    "slug": ""
+}

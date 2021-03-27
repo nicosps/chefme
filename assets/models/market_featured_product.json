@@ -1,0 +1,44 @@
+{
+    "bnib_highest_bid_price": 0,
+    "bnib_lowest_sell_price": 0,
+    "id": 0,
+    "pre_order_highest_bid_price": 0,
+    "pre_order_lowest_sell_price": 0,
+    "product": {
+        "code": "",
+        "color": "",
+        "description": "",
+        "detail": "",
+        "detail_image_url": "",
+        "display_image_url": "",
+        "gender": 0,
+        "id": 0,
+        "name": "",
+        "original_display_image_url": "",
+        "release_date": "",
+        "retail_price": 0,
+        "retail_price_currency": "",
+        "slug": "",
+        "sold_count": 0,
+        "story": "",
+        "view_count": 0
+    },
+    "product_brand": {
+        "full_name": "",
+        "id": 0,
+        "image_path": "",
+        "name": "",
+        "parent_id": 0,
+        "priority": 0,
+        "slug": "",
+        "top_brand": false
+    },
+    "product_category": {
+        "id": 0,
+        "name": "",
+        "product_category_group_id": 0,
+        "slug": ""
+    },
+    "product_category_id": 0,
+    "product_id": 0
+}

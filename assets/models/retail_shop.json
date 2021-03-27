@@ -1,0 +1,25 @@
+{
+    "description": "",
+    "id": 0,
+    "is_eligible_for_review": false,
+    "logo_path": "",
+    "name": "",
+    "rating": 0.0,
+    "retail_address": {
+        "address": "",
+        "address_city_name": "",
+        "address_province_name": "",
+        "address_subdistrict_name": "",
+        "country": "",
+        "id": 0,
+        "zip_code": ""
+    },
+    "retail_product_categories": [
+        {
+            "id": 0,
+            "name": "",
+            "slug": ""
+        }
+    ],
+    "reviewed": false
+}

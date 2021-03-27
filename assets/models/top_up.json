@@ -1,0 +1,12 @@
+{
+    "amount": 0,
+    "bank": "",
+    "code": "",
+    "created_at": "",
+    "masked_card": "",
+    "payment_channel": "",
+    "payment_code": "",
+    "payment_status": "",
+    "payment_type": "",
+    "virtual_account_number": ""
+}
